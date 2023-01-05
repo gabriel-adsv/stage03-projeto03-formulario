@@ -22,23 +22,16 @@ Formação inicial no mercado de programação.  <br/>
 </p>
 
 ## 🚀 Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - HTML e CSS
 - Figma
-<br />
-<br />
+
 ## 💻 Projeto
 O Desafio extra é uma página desktop com imagem, título, texto, rodapé e finaliza com um rodapé com efeito de onda. 
-
 - [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-projeto03-formulario/)
-<br />
-<br />
-## 📝 Licença
 
+## 📝 Licença
 Esse projeto está sob a licença MIT.
 
-<br />
 ---
 Feito com ♥ by Gabriel Augusto
