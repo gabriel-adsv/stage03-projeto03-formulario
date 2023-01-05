@@ -35,7 +35,6 @@ O Desafio extra é uma página desktop com imagem, título, texto, rodapé e fin
 - [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-projeto03-formulario/)
 <br />
 <br />
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
