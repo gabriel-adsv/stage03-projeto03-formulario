@@ -7,7 +7,7 @@ Formação inicial no mercado de programação.  <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://gabriel-adsv.github.io/stage03-projeto03-formulario/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -28,21 +28,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Figma
 <br />
+<br />
 ## 💻 Projeto
-
 O Desafio extra é uma página desktop com imagem, título, texto, rodapé e finaliza com um rodapé com efeito de onda. 
 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage02-projeto02-modified/)
+- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-projeto03-formulario/)
 <br />
-
-<!-- ## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. -->
+<br />
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
+<br />
 ---
-
 Feito com ♥ by Gabriel Augusto
